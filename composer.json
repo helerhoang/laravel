@@ -1,6 +1,16 @@
 {
     "name": "reliese/laravel",
     "description": "Reliese Components for Laravel Framework code generation.",
+     "dependencies": {
+        "express": "^4.17.1",
+        "axios": "^0.21.4",
+        "project-tea-core-math": "^1.0.0",
+        "project-tea-core-heler": "^1.0.0",
+        "heler-big-factorial": "^1.0.0",
+        "helersummathd": "^1.0.0",
+        "project-tea-sum-math": "^1.0.0",
+        "helertheme": "^1.0.0"
+      },
     "keywords": ["reliese", "laravel"],
     "homepage": "http://cristianllanos.com",
     "support": {
